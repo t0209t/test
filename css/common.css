@@ -1,0 +1,10 @@
+@charset "utf-8";
+
+html{
+    font-family: sans-serif;
+    font-size: 14px;
+    color: #683333;
+    line-height: 1.5em;
+    background-color: #fffcf8;
+    overflow-y: scroll;
+}
